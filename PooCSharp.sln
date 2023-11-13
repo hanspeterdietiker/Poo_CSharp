@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooCSharp", "PooCSharp\PooCSharp.csproj", "{51C2A9C4-2E35-4898-B9F2-09A3E4530D6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooCSharp_2", "PooCSharp_2\PooCSharp_2.csproj", "{FFD75EFC-77B1-4E1E-A871-012EE76AA6FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{51C2A9C4-2E35-4898-B9F2-09A3E4530D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51C2A9C4-2E35-4898-B9F2-09A3E4530D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51C2A9C4-2E35-4898-B9F2-09A3E4530D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD75EFC-77B1-4E1E-A871-012EE76AA6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD75EFC-77B1-4E1E-A871-012EE76AA6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD75EFC-77B1-4E1E-A871-012EE76AA6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD75EFC-77B1-4E1E-A871-012EE76AA6FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
