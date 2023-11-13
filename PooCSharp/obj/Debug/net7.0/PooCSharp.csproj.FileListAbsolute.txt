@@ -1,0 +1,15 @@
+C:\ProjectsRider\PooCSharp\PooCSharp\bin\Debug\net7.0\PooCSharp.exe
+C:\ProjectsRider\PooCSharp\PooCSharp\bin\Debug\net7.0\PooCSharp.deps.json
+C:\ProjectsRider\PooCSharp\PooCSharp\bin\Debug\net7.0\PooCSharp.runtimeconfig.json
+C:\ProjectsRider\PooCSharp\PooCSharp\bin\Debug\net7.0\PooCSharp.dll
+C:\ProjectsRider\PooCSharp\PooCSharp\bin\Debug\net7.0\PooCSharp.pdb
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\PooCSharp.csproj.AssemblyReference.cache
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\PooCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\PooCSharp.AssemblyInfoInputs.cache
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\PooCSharp.AssemblyInfo.cs
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\PooCSharp.csproj.CoreCompileInputs.cache
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\PooCSharp.dll
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\refint\PooCSharp.dll
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\PooCSharp.pdb
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\PooCSharp.genruntimeconfig.cache
+C:\ProjectsRider\PooCSharp\PooCSharp\obj\Debug\net7.0\ref\PooCSharp.dll

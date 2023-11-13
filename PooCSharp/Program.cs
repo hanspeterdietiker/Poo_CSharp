@@ -1,4 +1,7 @@
 ﻿using System;
+using PooCSharp.Entities;
+using PooCSharp.Entities.enums;
+
 
 namespace PooCSharp
 {
@@ -6,7 +9,13 @@ namespace PooCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Order order = new Order
+            {
+                Id = 1080,
+                Moment = DateTime.Now,
+                Status = OrderStatus.PendingPayment
+            };
+            Console.WriteLine(order);
         }
     }
 }
