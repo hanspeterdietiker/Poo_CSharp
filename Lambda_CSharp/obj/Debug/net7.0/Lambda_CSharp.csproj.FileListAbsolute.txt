@@ -1,0 +1,15 @@
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\bin\Debug\net7.0\Lambda_CSharp.exe
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\bin\Debug\net7.0\Lambda_CSharp.deps.json
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\bin\Debug\net7.0\Lambda_CSharp.runtimeconfig.json
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\bin\Debug\net7.0\Lambda_CSharp.dll
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\bin\Debug\net7.0\Lambda_CSharp.pdb
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\Lambda_CSharp.csproj.AssemblyReference.cache
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\Lambda_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\Lambda_CSharp.AssemblyInfoInputs.cache
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\Lambda_CSharp.AssemblyInfo.cs
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\Lambda_CSharp.csproj.CoreCompileInputs.cache
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\Lambda_CSharp.dll
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\refint\Lambda_CSharp.dll
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\Lambda_CSharp.pdb
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\Lambda_CSharp.genruntimeconfig.cache
+C:\ProjectsRider\PooCSharp\Lambda_CSharp\obj\Debug\net7.0\ref\Lambda_CSharp.dll

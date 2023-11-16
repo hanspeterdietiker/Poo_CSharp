@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooCSharp_2", "PooCSharp_2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooCSharp_3", "PooCSharp_3\PooCSharp_3.csproj", "{E6A02286-51A2-4A57-948E-CB46ADFCAF8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_CSharp", "Lambda_CSharp\Lambda_CSharp.csproj", "{E7C0F66C-F229-45A8-9394-47910D503ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_CSharp2", "Lambda_CSharp2\Lambda_CSharp2.csproj", "{105CAB12-0FEC-4A4A-8A27-7199F813E16B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{E6A02286-51A2-4A57-948E-CB46ADFCAF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6A02286-51A2-4A57-948E-CB46ADFCAF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6A02286-51A2-4A57-948E-CB46ADFCAF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C0F66C-F229-45A8-9394-47910D503ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C0F66C-F229-45A8-9394-47910D503ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C0F66C-F229-45A8-9394-47910D503ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C0F66C-F229-45A8-9394-47910D503ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105CAB12-0FEC-4A4A-8A27-7199F813E16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105CAB12-0FEC-4A4A-8A27-7199F813E16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105CAB12-0FEC-4A4A-8A27-7199F813E16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105CAB12-0FEC-4A4A-8A27-7199F813E16B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
